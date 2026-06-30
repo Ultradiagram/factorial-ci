@@ -3,7 +3,7 @@ from factorial import factorial
 
 
 def test_factorial_caso_correcto():
-    assert factorial(5) == 100
+    assert factorial(5) == 120
 
 
 def test_factorial_caso_limite():
